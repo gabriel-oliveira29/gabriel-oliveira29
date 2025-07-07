@@ -1,4 +1,4 @@
-**# 👩🏻‍💻 Gabriel Oliveira
+** 👩🏻‍💻 Gabriel Oliveira
 
 **`Desenvolvedora FullStack`**
 
