@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Gabriel, tenho 25 anos e sou de campinas-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimetrocamp. 
+Me chamo Gabriel, tenho 26 anos e sou de campinas-SP. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Unimetrocamp. 
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -14,6 +14,7 @@ Me chamo Gabriel, tenho 25 anos e sou de campinas-SP. Atualmente, estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -22,6 +23,7 @@ Me chamo Gabriel, tenho 25 anos e sou de campinas-SP. Atualmente, estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -30,6 +32,7 @@ Me chamo Gabriel, tenho 25 anos e sou de campinas-SP. Atualmente, estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -37,22 +40,6 @@ Me chamo Gabriel, tenho 25 anos e sou de campinas-SP. Atualmente, estou cursando
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
 <img 
@@ -63,6 +50,7 @@ Me chamo Gabriel, tenho 25 anos e sou de campinas-SP. Atualmente, estou cursando
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
